@@ -1,0 +1,45 @@
+body{
+    margin: 0px;
+}
+
+.navbar{
+    background-color: black;
+    width: 1065.6px;
+    height: 80px;
+    width: 100%;
+    padding: 15 15px;
+    
+}
+
+.spotify{
+    width: 132px;
+    height: 41.9px;
+    margin-top: 20px;
+    margin-left: 202.8px;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.group{
+    margin-top: 25px;
+}
+
+.navbar-item{
+    float: right; 
+    margin-right: 202.8px; 
+}
+
+.list{
+    padding: 28 17px;
+    font-weight: 700;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    cursor: pointer;
+}
+
+.bar{
+    color: white;
+    padding: 28 17px;
+}
