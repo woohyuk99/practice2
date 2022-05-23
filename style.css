@@ -43,3 +43,67 @@ a{
     color: white;
     padding: 28 17px;
 }
+
+main{
+    background-image: url(https://www-growth.scdn.co/static/home/bursts.svg);
+    height: 968px;
+    background-color: rgb(41, 65, 171);
+    background-size: 175%;
+    background-position: 46% 4%; 
+}
+
+.headline{
+    position: relative;
+    margin-left: 540px;
+    top: 280px;
+    
+}
+
+.headline-first{
+    font-size: 146px;
+    line-height: 166px;
+    color: #1ed760;
+    font-weight: 900;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    position: relative;
+    left: -2.5em;
+}
+
+.headline-second{
+    font-size: 146px;
+    line-height: 166px;
+    color: #1ed760;
+    font-weight: 900;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+}
+
+.sub-headline{
+    color: #1ed760;
+    font-size: 18px;
+    font-family: spotify-circular, Helvetica, Arial, sans-serif;
+    line-height: 24px;
+    padding: 40 40px;
+    position: relative;
+    left: -1.5em;
+}
+
+.button-style{
+    width: 183.14px;
+    height: 46.4px;
+    padding: 14 32px;
+    background-color: #1ed760;
+    border-radius: 500px;
+    font-size: inherit;
+    color: #2941ab;
+    font-weight: 700;
+    border: none;
+    position: relative;
+    left: 140px; 
+}
+
+.footer-container{
+    width: 1065.6px;
+    height: 530px;
+    width: 100%;
+    background-color: black;
+}
